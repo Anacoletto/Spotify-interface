@@ -17,4 +17,4 @@ Projeto de interface inspirado no Spotify, desenvolvido com foco em layout, esti
 Praticar desenvolvimento de interfaces, fidelidade visual e boas práticas de frontend.
 
 ## Status
-Projeto de estudo.
+Projeto de estudo finalizado.
