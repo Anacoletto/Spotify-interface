@@ -1,7 +1,7 @@
 # Interface do Spotify
 
 ## Descrição
-Projeto de interface inspirado no Spotify, desenvolvido com foco em layout, estilização e organização visual.
+Projeto de interface inspirado no Spotify (clone visual), desenvolvido com foco em layout, estilização e organização visual.
 
 ## Funcionalidades
 - Estruturação da interface baseada no design da aplicação original
